@@ -3,7 +3,7 @@ title:            The 3D Printing Club
 tagline:          'Learning To Create'
 description:      'A website for the club of the same name.'
 url:              https://odysseusinspace.github.io
-baseurl:          https://odysseusinspace.github.io
+baseurl:          ''
 paginate:         5
 
 # About and contact
