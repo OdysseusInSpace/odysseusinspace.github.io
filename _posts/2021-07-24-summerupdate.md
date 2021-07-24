@@ -8,6 +8,6 @@ In preperation for the beginning of grade 12, with the 3D printing club now esta
 Where previously the club has been focused on introducing members to 3D printing and the concept of just making what they need, some holdover members will want to move beyond Tinkercad to more capable software. As such, I will be teaching Fusion 360, as well as other advanced CAD tools.
 ### Personal Advancements
 I have been working on my own project for the past few weeks, exploring more of the capabilities of 3D printing. The result of this is a mechanical calculator of my original design.  
-> image 
+![calculator - ravmeimad](https://user-images.githubusercontent.com/82609469/126867693-78a2a4cb-447c-4a10-9948-166c068cc8e9.JPG)
 
 Each digit has an input slider around a central stepped gear drum that rotates to add the inputs. Each digit interacts with the drum in isolation, so that the  gear based tens carry mechanism can increment the next digit as required, the single tooth interacting with an intermediary gear that meshes with the next axle.
